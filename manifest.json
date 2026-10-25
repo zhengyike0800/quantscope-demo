@@ -1,1 +1,22 @@
-{"name":"QuantScope AI｜繁體中文市場研究","short_name":"QuantScope AI","description":"台股與加密貨幣公開資料研究工具 v0.3","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#100b1f","theme_color":"#100b1f","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "QuantScope AI｜繁體中文市場研究",
+  "short_name": "QuantScope AI",
+  "description": "市場研究工具 v0.4：15 秒前景報價、已收盤 K 線分析、價格提醒及新聞標題",
+  "start_url": "./index.html?v=040",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#100b1f",
+  "theme_color": "#100b1f",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
